@@ -1,2 +1,2 @@
-rootProject.name = "rankup-ragnarok-utilities"
+rootProject.name = "utilities"
 
